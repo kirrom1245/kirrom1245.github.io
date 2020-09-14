@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/vk-apps-image-exampe/static/js/main.7f4a7754.chunk.js",
+    "main.js.map": "/vk-apps-image-exampe/static/js/main.7f4a7754.chunk.js.map",
+    "runtime-main.js": "/vk-apps-image-exampe/static/js/runtime-main.90a10473.js",
+    "runtime-main.js.map": "/vk-apps-image-exampe/static/js/runtime-main.90a10473.js.map",
+    "static/css/2.09e62520.chunk.css": "/vk-apps-image-exampe/static/css/2.09e62520.chunk.css",
+    "static/js/2.1086d83e.chunk.js": "/vk-apps-image-exampe/static/js/2.1086d83e.chunk.js",
+    "static/js/2.1086d83e.chunk.js.map": "/vk-apps-image-exampe/static/js/2.1086d83e.chunk.js.map",
+    "index.html": "/vk-apps-image-exampe/index.html",
+    "precache-manifest.adfd0ca1ed411fa087cdc38338b091e6.js": "/vk-apps-image-exampe/precache-manifest.adfd0ca1ed411fa087cdc38338b091e6.js",
+    "service-worker.js": "/vk-apps-image-exampe/service-worker.js",
+    "static/css/2.09e62520.chunk.css.map": "/vk-apps-image-exampe/static/css/2.09e62520.chunk.css.map",
+    "static/js/2.1086d83e.chunk.js.LICENSE.txt": "/vk-apps-image-exampe/static/js/2.1086d83e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90a10473.js",
+    "static/css/2.09e62520.chunk.css",
+    "static/js/2.1086d83e.chunk.js",
+    "static/js/main.7f4a7754.chunk.js"
+  ]
+}
